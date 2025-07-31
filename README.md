@@ -1,4 +1,4 @@
-# Olá, eu sou Marcelo Range Barros 
+# Olá, sou Marcelo Rangel Barros 
 
 ## 🌱 Sobre Mim
 Sou **desenvolvedor full-stack** apaixonado por tecnologia e inovação. Tenho experiência em **Node.js**, **HTML**, **CSS**, **JavaScript**, **MySQL**, entre outras tecnologias. Gosto de criar soluções que conectam pessoas e empresas de forma inteligente e eficiente. Atualmente, estou mergulhado em projetos com **Inteligência Artificial** e **Desenvolvimento Web**.
@@ -6,7 +6,9 @@ Sou **desenvolvedor full-stack** apaixonado por tecnologia e inovação. Tenho e
 ---
 
 ## 💡 **Valores Pessoais**
-Tenho como objetivo ser um desenvolvedor que não só é habilidoso, mas também valoriza a **integridade**, o **aprendizado contínuo** e a **colaboração**. Acredito que construir um bom software não é apenas sobre escrever código, mas sobre **resolver problemas reais** e **causar um impacto positivo** nos usuários.
+Tenho como objetivo ser um desenvolvedor que não só busca aprimorar suas habilidades técnicas, mas que também valoriza princípios como ética, crescimento constante e trabalho colaborativo. Acredito que o verdadeiro valor do desenvolvimento de software vai além do código; trata-se de solucionar desafios reais e de gerar um impacto positivo na vida das pessoas.
+
+
 
 ---
 
