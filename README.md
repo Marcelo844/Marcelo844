@@ -8,8 +8,6 @@ Sou **desenvolvedor full-stack** apaixonado por tecnologia e inovação. Tenho e
 ## 💡 **Valores Pessoais**
 Tenho como objetivo ser um desenvolvedor que não só busca aprimorar suas habilidades técnicas, mas que também valoriza princípios como ética, crescimento constante e trabalho colaborativo. Acredito que o verdadeiro valor do desenvolvimento de software vai além do código; trata-se de solucionar desafios reais e de gerar um impacto positivo na vida das pessoas.
 
-
-
 ---
 
 ## 🌟 **Soft Skills**
@@ -29,7 +27,6 @@ Aqui está o meu projeto mais recente no qual estou atualmente trabalhando:
 - Aplicação full-stack com foco em oferecer uma experiência de usuário intuitiva e escalável.
 
 [![Acesse o Connect Skills](https://img.shields.io/badge/Acesse%20o%20Connect%20Skills-007bff?style=for-the-badge&logo=google-chrome&logoColor=white&color=007bff)](https://connectskills.com.br)
-
 
 ---
 
@@ -57,13 +54,6 @@ Eu adoraria me conectar com você! 🚀
 
 - **[LinkedIn](https://www.linkedin.com/in/marcelorangebarros/)**
 - **[GitHub](https://github.com/Marcelo844)**
-
-
----
-
-## 🎯 **Interesses**
-
-- **Tecnologia:** Sempre buscando aprender sobre novas tecnologias e inovações do mundo atual.
 
 ---
 
