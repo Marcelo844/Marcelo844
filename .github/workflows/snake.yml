@@ -1,12 +1,9 @@
 name: Generate Snake 🐍
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -15,22 +12,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate the snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Debug info
+        run: |
+          git --version
+          git config --list
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Marcelo844
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Upload animation to repository
-        run: |
-          mkdir -p output
-          cp -r dist/* output/
+      - name: List output
+        run: ls -la dist
 
-      - name: Push animation to the output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
-          publish_branch: output
+          name: github-snake
+          path: dist/github-snake.svg
