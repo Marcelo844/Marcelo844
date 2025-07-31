@@ -58,5 +58,5 @@ Tecnologias que utilizo com frequência no meu dia a dia:
 Se você quiser conversar ou saber mais sobre meus projetos, entre em contato comigo:
 
 📬 **Email:** [marcelorangelb2006@gmail.com](mailto:marcelorangelb2006@gmail.com)
-🔗 **LinkedIn:** [Marcelo Barros](https://www.linkedin.com/in/marcelo-barros-bbb572235/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+🔗 **LinkedIn:** [Marcelo Barros](https://www.linkedin.com/in/marcelo-barros-bbb572235/)
 
