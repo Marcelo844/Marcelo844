@@ -1,4 +1,4 @@
-# Olá, eu sou Marcelo Range Barros 👋
+# Olá, eu sou Marcelo Range Barros 
 
 ## 🌱 Sobre Mim
 Sou **desenvolvedor full-stack** apaixonado por tecnologia e inovação. Tenho experiência em **Node.js**, **HTML**, **CSS**, **JavaScript**, **MySQL**, entre outras tecnologias. Gosto de criar soluções que conectam pessoas e empresas de forma inteligente e eficiente. Atualmente, estou mergulhado em projetos com **Inteligência Artificial** e **Desenvolvimento Web**.
@@ -54,7 +54,6 @@ Eu adoraria me conectar com você! 🚀
 - **[LinkedIn](https://www.linkedin.com/in/marcelorangebarros/)**
 - **[GitHub](https://github.com/Marcelo844)**
 
-📬 **Email:** marcelorangelb2006@gmail.com
 
 ---
 
@@ -69,5 +68,6 @@ Eu adoraria me conectar com você! 🚀
 ![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo844&layout=compact&langs_count=10&theme=radical)
 
 ---
+ 📫 Contato:
 
-🔭 **Atualmente estou trabalhando em projetos envolvendo** **Inteligência Artificial** e **Desenvolvimento Web** e **Banco de Dados**.
+  **Email:** marcelorangelb2006@gmail.com
