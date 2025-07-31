@@ -1,4 +1,4 @@
-# Olá, sou Marcelo Rangel Barros 
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=500&lines=Olá%2C+meu+nome+é+Marcelo+Rangel+Barros!)](https://git.io/typing-svg)
 
 ## 🌱 Sobre Mim
 Sou **desenvolvedor full-stack** apaixonado por tecnologia e inovação. Tenho experiência em **Node.js**, **HTML**, **CSS**, **JavaScript**, **MySQL**, entre outras tecnologias. Gosto de criar soluções que conectam pessoas e empresas de forma inteligente e eficiente. Atualmente, estou mergulhado em projetos com **Inteligência Artificial** e **Desenvolvimento Web**.
