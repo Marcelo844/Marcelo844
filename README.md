@@ -60,7 +60,15 @@ Eu adoraria me conectar com você! 🚀
 
 - **Tecnologia:** Sempre buscando aprender sobre novas tecnologias e inovações do mundo atual.
 
-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcelo844&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+---
+
+## 📊 **Minhas tecnologias mais usadas**
+
+Aqui estão as minhas estatísticas de contribuição no GitHub, incluindo as tecnologias que mais uso:
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcelo844&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
 
 🔭 **Atualmente estou trabalhando em projetos envolvendo** **Inteligência Artificial** e **Desenvolvimento Web** e **Banco de Dados**.
 
