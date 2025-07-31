@@ -9,6 +9,7 @@ Sou **desenvolvedor full-stack** apaixonado por tecnologia e inovação. Tenho e
 Tenho como objetivo ser um desenvolvedor que não só é habilidoso, mas também valoriza a **integridade**, o **aprendizado contínuo** e a **colaboração**. Acredito que construir um bom software não é apenas sobre escrever código, mas sobre **resolver problemas reais** e **causar um impacto positivo** nos usuários.
 
 ---
+
 ## 🌟 **Soft Skills**
 
 - **Trabalho em equipe:** Sempre aberto ao aprendizado em grupo, com foco no crescimento mútuo.
@@ -26,7 +27,6 @@ Conta com testes de personalidade movidos por IA, recomendações de vagas e per
 Aplicação full-stack com foco em oferecer uma experiência de usuário intuitiva e escalável.
 [**Acesse o Connect Skills clicando aqui**](https://connectskills.com.br)
 
-
 ---
 
 ## 🛠️ **Ferramentas e Tecnologias**
@@ -39,8 +39,10 @@ Tecnologias que utilizo com frequência no meu dia a dia:
 | **HTML5** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
 | **CSS3** | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **JavaScript** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **TypeScript** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | **MySQL** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Java** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) |
+| **Go** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
 | **GitHub** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
@@ -69,4 +71,3 @@ Eu adoraria me conectar com você! 🚀
 ---
 
 🔭 **Atualmente estou trabalhando em projetos envolvendo** **Inteligência Artificial** e **Desenvolvimento Web** e **Banco de Dados**.
-
