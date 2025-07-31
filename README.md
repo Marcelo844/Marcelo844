@@ -9,13 +9,23 @@ Sou **desenvolvedor full-stack** apaixonado por tecnologia e inovação. Tenho e
 Tenho como objetivo ser um desenvolvedor que não só é habilidoso, mas também valoriza a **integridade**, o **aprendizado contínuo** e a **colaboração**. Acredito que construir um bom software não é apenas sobre escrever código, mas sobre **resolver problemas reais** e **causar um impacto positivo** nos usuários.
 
 ---
+## 🌟 **Soft Skills**
+
+- **Trabalho em equipe:** Sempre aberto ao aprendizado em grupo, com foco no crescimento mútuo.
+- **Resolução de problemas:** Encaro desafios como oportunidades de melhoria e inovação.
+
+---
 
 ## 🚀 **Projetos**
 
-Aqui estão alguns dos meus projetos mais recentes:
+Aqui está o meu projeto mais recente no qual estou atualmente trabalhando:
 
 ### 1. **[Connect Skills](https://connectskills.com.br)**
-Uma plataforma para conectar jovens recém-formados ao mercado de trabalho, utilizando **IA** para combinar **soft skills** e **áreas de interesse** com vagas de empresas.
+Uma plataforma projetada para conectar candidatos ao mercado de trabalho com base em habilidades comportamentais utilizando **IA**.
+Conta com testes de personalidade movidos por IA, recomendações de vagas e perfis de empresas.
+Aplicação full-stack com foco em oferecer uma experiência de usuário intuitiva e escalável.
+[**Acesse o Connect Skills clicando aqui**](https://connectskills.com.br)
+
 
 ---
 
@@ -45,6 +55,12 @@ Eu adoraria me conectar com você! 🚀
 📬 **Email:** marcelorangelb2006@gmail.com
 
 ---
+
+## 🎯 **Interesses**
+
+- **Tecnologia:** Sempre buscando aprender sobre novas tecnologias e inovações do mundo atual.
+
+- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcelo844&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 🔭 **Atualmente estou trabalhando em projetos envolvendo** **Inteligência Artificial** e **Desenvolvimento Web** e **Banco de Dados**.
 
