@@ -67,3 +67,4 @@ Eu adoraria me conectar com você! 🚀
 Se você quiser conversar ou saber mais sobre meus projetos, entre em contato comigo:
 
 📬 **Email:** [marcelorangelb2006@gmail.com](mailto:marcelorangelb2006@gmail.com)
+    **LinkedIn:**(https://www.linkedin.com/in/marcelo-barros-bbb572235/)
