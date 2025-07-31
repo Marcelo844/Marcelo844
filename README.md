@@ -53,9 +53,11 @@ Tecnologias que utilizo com frequência no meu dia a dia:
 ![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo844&layout=compact&langs_count=10&theme=radical)
 ---
 
-## 🐍 Snake com minhas contribuições
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 ## 📫 **Contato**
