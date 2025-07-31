@@ -64,9 +64,7 @@ Eu adoraria me conectar com você! 🚀
 
 ## 📊 **Minhas tecnologias mais usadas**
 
-Aqui estão as minhas estatísticas de contribuição no GitHub, incluindo as tecnologias que mais uso:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcelo844&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo844&layout=compact&langs_count=10&theme=radical)
 
 ---
 
