@@ -21,12 +21,12 @@ Tenho como objetivo ser um desenvolvedor que não só é habilidoso, mas também
 
 Aqui está o meu projeto mais recente no qual estou atualmente trabalhando:
 
-### 1. **[Connect Skills](https://connectskills.com.br)** 
-[![Acesse o Connect Skills](https://img.shields.io/badge/Acesse%20o%20Connect%20Skills-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white&color=FF5733)](https://connectskills.com.br)
-Uma plataforma projetada para conectar candidatos ao mercado de trabalho com base em habilidades comportamentais utilizando **IA**.
-Conta com testes de personalidade movidos por IA, recomendações de vagas e perfis de empresas.
-Aplicação full-stack com foco em oferecer uma experiência de usuário intuitiva e escalável.
-[**Acesse o Connect Skills clicando aqui**](https://connectskills.com.br)
+### 1. **Connect Skills**
+- Uma plataforma projetada para conectar candidatos ao mercado de trabalho com base em habilidades comportamentais utilizando **IA**.
+- Conta com testes de personalidade movidos por IA, recomendações de vagas e perfis de empresas.
+- Aplicação full-stack com foco em oferecer uma experiência de usuário intuitiva e escalável.
+
+[![Acesse o Connect Skills](https://img.shields.io/badge/Acesse%20o%20Connect%20Skills-007bff?style=for-the-badge&logo=google-chrome&logoColor=white&color=007bff)](https://connectskills.com.br)
 
 
 ---
