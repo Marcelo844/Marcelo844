@@ -9,6 +9,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ### 1. **[Connect Skills](https://connectskills.com.br)**
 Uma plataforma para conectar jovens recém-formados ao mercado de trabalho, utilizando IA para combinar soft skills e áreas de interesse com vagas de empresas.
+
 **Acesse o repositório:(https://github.com/brunowasch/connect-skills)**
 
 ## 🛠️ Ferramentas e Tecnologias
