@@ -48,15 +48,6 @@ Tecnologias que utilizo com frequência no meu dia a dia:
 
 ---
 
-## 🌐 **Conecte-se Comigo**
-
-Eu adoraria me conectar com você! 🚀
-
-- **[LinkedIn](https://www.linkedin.com/in/marcelorangebarros/)**
-- **[GitHub](https://github.com/Marcelo844)**
-
----
-
 ## 📊 **Minhas tecnologias mais usadas**
 
 ![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo844&layout=compact&langs_count=10&theme=radical)
@@ -67,4 +58,5 @@ Eu adoraria me conectar com você! 🚀
 Se você quiser conversar ou saber mais sobre meus projetos, entre em contato comigo:
 
 📬 **Email:** [marcelorangelb2006@gmail.com](mailto:marcelorangelb2006@gmail.com)
-    **LinkedIn:**(https://www.linkedin.com/in/marcelo-barros-bbb572235/)
+🔗 **LinkedIn:** [Marcelo Barros](https://www.linkedin.com/in/marcelo-barros-bbb572235/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+
