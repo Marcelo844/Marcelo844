@@ -29,13 +29,11 @@ Tecnologias que utilizo com frequência no meu dia a dia:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake.svg">
 </picture>
-
 ---
 
 ## 🚀 Projetos em Destaque
