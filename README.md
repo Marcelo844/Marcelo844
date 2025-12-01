@@ -48,7 +48,12 @@ Tecnologias que utilizo com frequência no meu dia a dia:
 
 ## 📊 **Minhas tecnologias mais usadas**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo844&layout=compact&langs_count=10&theme=radical" alt="Linguagens mais usadas" /> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterorgin-github-readme-stats-team.vercel.app/api/top-langs/?username=Marcelo844&layout=compact&langs_count=10&theme=radical" 
+    alt="Linguagens mais usadas"
+  />
+</p>
 ---
 
 <picture>
