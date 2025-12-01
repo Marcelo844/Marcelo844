@@ -5,19 +5,50 @@ Sou **desenvolvedor full-stack** apaixonado por tecnologia e inovação. Tenho e
 
 ---
 
-## 💡 **Valores Pessoais**
+## 💡 Valores, Soft Skills e Ética
+
 Tenho como objetivo ser um desenvolvedor que não só busca aprimorar suas habilidades técnicas, mas que também valoriza princípios como ética, crescimento constante e trabalho colaborativo. Acredito que o verdadeiro valor do desenvolvimento de software vai além do código; trata-se de solucionar desafios reais e de gerar um impacto positivo na vida das pessoas.
 
----
-
-## 🌟 **Soft Skills**
-
-- **Trabalho em equipe:** Sempre aberto ao aprendizado em grupo, com foco no crescimento mútuo.
-- **Resolução de problemas:** Encaro desafios como oportunidades de melhoria e inovação.
+* **Trabalho em equipe:** Sempre aberto ao aprendizado em grupo, com foco no crescimento mútuo.
+* **Resolução de problemas:** Encaro desafios como oportunidades de melhoria e inovação.
 
 ---
 
-## 🚀 **Projetos**
+## 🛠️ Ferramentas e Tecnologias
+
+Tecnologias que utilizo com frequência no meu dia a dia:
+
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat&logo=node.js&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📊 Linguagens Mais Usadas & Contribuições
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterorgin-github-readme-stats-team.vercel.app/api/top-langs/?username=Marcelo844&layout=compact&langs_count=10&theme=radical" 
+    alt="Linguagens mais usadas"
+  />
+</p>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🚀 Projetos em Destaque
 
 Aqui está o meu projeto mais recente no qual estou atualmente trabalhando:
 
@@ -30,43 +61,9 @@ Aqui está o meu projeto mais recente no qual estou atualmente trabalhando:
 
 ---
 
-## 🛠️ **Ferramentas e Tecnologias**
-
-Tecnologias que utilizo com frequência no meu dia a dia:
-
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat&logo=node.js&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📊 **Minhas tecnologias mais usadas**
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorgin-github-readme-stats-team.vercel.app/api/top-langs/?username=Marcelo844&layout=compact&langs_count=10&theme=radical" 
-    alt="Linguagens mais usadas"
-  />
-</p>
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marcelo844/Marcelo844/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-## 📫 **Contato**
+## 📫 Contato
 
 Se você quiser conversar ou saber mais sobre meus projetos, entre em contato comigo:
 
 📬 **Email:** [marcelorangelb2006@gmail.com](mailto:marcelorangelb2006@gmail.com)
 🔗 **LinkedIn:** [Marcelo Barros](https://www.linkedin.com/in/marcelo-barros-bbb572235/)
-
