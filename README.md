@@ -22,10 +22,12 @@ Tecnologias que utilizo com frequência no meu dia a dia:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat&logo=node.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
